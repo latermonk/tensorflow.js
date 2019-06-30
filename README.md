@@ -13,7 +13,11 @@ https://blog.csdn.net/weixin_37569048/article/details/80936071
 https://www.infoq.cn/article/tq*Ts7TzZPmpD9I6oUCh          
  
  
- 
+ ## tracking.js
+https://www.jianshu.com/p/cf05b8ff7561     
+
+
+https://trackingjs.com/docs.html#introduction      
  
  ## Real-time Human Pose Estimation    
  
