@@ -6,9 +6,11 @@
 https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07
 
 
+https://github.com/justadudewhohacks/face-api.js   
 
-https://blog.csdn.net/weixin_37569048/article/details/80936071
-https://www.infoq.cn/article/tq*Ts7TzZPmpD9I6oUCh     
+
+https://blog.csdn.net/weixin_37569048/article/details/80936071      
+https://www.infoq.cn/article/tq*Ts7TzZPmpD9I6oUCh          
  
  
  
